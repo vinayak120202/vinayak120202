@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vinayak120202
+- 👋 Hi, I’m @vinayak0202
 - 👀 I’m interested in Graphics Designing.
 - 🌱 I’m currently learning Python.
 - 📫 Contact via vinayakchauhan.2002@gmail.com
