@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vinayak120202
-- 👀 I’m interested in Graphics Designing.
+- 👀 I’m interested in Graphics Designing and Cloud Technologies
 - 🌱 I’m currently learning Python.
 - 📫 Contact via vinayakchauhan.2002@gmail.com
 
