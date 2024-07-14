@@ -15,6 +15,6 @@ Hi there! I’m a passionate tech enthusiast with a strong foundation in Cloud c
 - Researching on innovative projects that solve real-world problems
 
 # Let's Connect
-- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/vinayak0202))
+- [LinkedIn](https://www.linkedin.com/in/vinayak0202)
 
 Feel Free to contact me which will be beneficial for both for us!
