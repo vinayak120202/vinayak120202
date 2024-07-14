@@ -4,7 +4,7 @@ Hi there! I’m a passionate tech enthusiast with a strong foundation in Cloud c
 - Amazon Cloud Practitioner (CLF-C01)
 - Microsoft Certified: Azure AI Fundamentals (AI-900)
 
-#Skills
+# Skills
 - Cloud Computing (AWS)
 - AI and Machine Learning Fundamentals
 - Web Development
