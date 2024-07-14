@@ -1,9 +1,20 @@
-- 👋 Hi, I’m @vinayak120202
-- 👀 I’m interested in Graphics Designing and Cloud Technologies
-- 🌱 I’m currently learning Python.
-- 📫 Contact via vinayakchauhan.2002@gmail.com
+Hi there! I’m a passionate tech enthusiast with a strong foundation in Cloud computing, Web Development and Graphics designing.
 
-<!---
-vinayak120202/vinayak120202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Certifications
+- Amazon Cloud Practitioner (CLF-C01)
+- Microsoft Certified: Azure AI Fundamentals (AI-900)
+
+#Skills
+- Cloud Computing (AWS)
+- AI and Machine Learning Fundamentals
+- Web Development
+- Graphics designing
+
+# Interests
+- Exploring new technologies Associated with JAVA
+- Researching on innovative projects that solve real-world problems
+
+# Let's Connect
+- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/vinayak0202))
+
+Feel Free to contact me which will be beneficial for both for us!
