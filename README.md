@@ -11,10 +11,10 @@ Hi there! I’m a passionate tech enthusiast with a strong foundation in Cloud c
 - Graphics designing
 
 # Interests
-- Exploring new technologies Associated with JAVA
+- Exploring new technologies associated with Native field
 - Researching on innovative projects that solve real-world problems
 
 # Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/vinayak0202)
 
-Feel Free to contact me which will be beneficial for both for us!
+Feel Free to contact me which will be beneficial for both of us!
