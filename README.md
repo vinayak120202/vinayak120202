@@ -12,8 +12,9 @@ I love blending creativity with technology to build innovative and impactful sol
 ## Skills
 - Cloud Computing (AWS, Azure)
 - AI & Machine Learning Fundamentals
-- Frontend & Backend Web Development
-- Graphic Designing & UI/UX Concepts
+- Data Science
+- Web Development
+- Graphic Designing
 
 ---
 
