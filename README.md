@@ -1,4 +1,4 @@
-# 👋 Hey there! I’m a passionate tech enthusiast with a strong foundation in **Cloud Computing**, **Data Science** and **Graphic Design**.  
+# 👋 Hey there! I’m a passionate tech enthusiast with a strong foundation in Artificial Intelligence and Machine Learning.  
 I love blending creativity with technology to build innovative and impactful solutions.
 
 ---
@@ -10,11 +10,10 @@ I love blending creativity with technology to build innovative and impactful sol
 ---
 
 ## Skills
-- Cloud Computing (AWS, Azure)
-- AI & Machine Learning Fundamentals
-- Data Science
+- Python
+- SQL
+- AWS
 - Web Development
-- Graphic Designing
 
 ---
 
